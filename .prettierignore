@@ -1,0 +1,6 @@
+# Ignore build directories
+dist/
+node_modules/
+
+# Ignore al JSON files
+*.json
